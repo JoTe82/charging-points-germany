@@ -39,7 +39,7 @@ The dataset "Liste der Ladesäulen (xlsx, Ladesaeulenregister_BNetzA_2025-09-24.
 The dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. 
 
 Licence: https://creativecommons.org/licenses/by/4.0/<br>
-<p>Dashboard: https://public.tableau.com/views/ffentlichzugnglicheLadepunkteinDeutschland/ffentlichzugnglicheLadepunkteinDeutschland?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link</p>
+Dashboard: https://public.tableau.com/views/ffentlichzugnglicheLadepunkteinDeutschland/ffentlichzugnglicheLadepunkteinDeutschland?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Contact
 
