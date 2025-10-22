@@ -23,7 +23,7 @@ The dataset was then analyzed and visualized using Tableau to create a dashboard
   - Tableau
 
   ### What results does the analysis and its visualization provide?
-  - Total number of charging points in Germany and the figures for annual expansion(trend)
+  - Total number of charging points in Germany and the figures for annual expansion (trend)
   - How many charging points are normal charging devices or fast charging devices
   - the current status of the charging points
   - the total rated power in kW
@@ -32,7 +32,9 @@ The dataset was then analyzed and visualized using Tableau to create a dashboard
 
 ## Link / Lizenz 
 The dataset "Liste der Ladesäulen (xlsx, Ladesaeulenregister_BNetzA_2025-09-24.xlsx, 15 MB)"  was obtained from the "bundesnetzagentur.de"(www.bundesnetzagentur.de). 
-The dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.  
+The dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. 
+
+Licence: https://creativecommons.org/licenses/by/4.0/
 
 ## Contact
 
