@@ -41,6 +41,11 @@ The dataset is licensed under the Creative Commons Attribution 4.0 International
 Licence: https://creativecommons.org/licenses/by/4.0/<br>
 Dashboard: https://public.tableau.com/views/ffentlichzugnglicheLadepunkteinDeutschland/ffentlichzugnglicheLadepunkteinDeutschland?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## Outlook
+
+An updated dataset is released every month. Each newly released dataset undergoes the existing data wrangling process again. The dashboard should then be updated. 
+In the near future, this entire process will be fully automated using the Prefect orchestration tool.
+
 ## Contact
 
 - Jochen Teschke
